@@ -5,7 +5,7 @@ Desc: Kaylon integration
 Created:  2021-07-12T21:48:58.976Z
 */
 
-#include "species/kaylon.h"
+#include "kaylon.h"
 
 Kaylon::Kaylon(double h, double w) : Humanoid(h, w), _isFiring(false) {
 }

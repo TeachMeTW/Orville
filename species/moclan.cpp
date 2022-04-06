@@ -5,7 +5,7 @@ Desc: Moclan integration
 Created:  2021-07-12T21:49:07.944Z
 */
 
-#include "species/moclan.h"
+#include "moclan.h"
 
 Moclan::Moclan(double h, double w) : Humanoid(h, w) {
     if (h == 0 && w == 0) {

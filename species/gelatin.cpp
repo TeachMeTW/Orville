@@ -4,7 +4,7 @@
  * Copyright (c) 2021, Robin Lee Simpson.
 */
 
-#include "species/gelatin.h"
+#include "gelatin.h"
 
 Gelatin::Gelatin(double w, std::string s) : _weight(w), _shape(s) {
 }

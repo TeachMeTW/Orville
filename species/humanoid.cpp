@@ -4,7 +4,7 @@
  * Copyright (c) 2021, Robin Lee Simpson.
 */
 
-#include "species/humanoid.h"
+#include "humanoid.h"
 
 Humanoid::Humanoid(double h, double w) : _height(h), _weight(w) {
 }

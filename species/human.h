@@ -6,7 +6,7 @@
 #ifndef SPECIES_HUMAN_H_
 #define SPECIES_HUMAN_H_
 
-#include "species/humanoid.h"
+#include "humanoid.h"
 
 class Human : public Humanoid {
  private:

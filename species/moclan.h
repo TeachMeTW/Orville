@@ -8,7 +8,7 @@ Created:  2021-07-12T21:49:21.536Z
 #ifndef SPECIES_MOCLAN_H_
 #define SPECIES_MOCLAN_H_
 
-#include "species/humanoid.h"
+#include "humanoid.h"
 
 class Moclan : public Humanoid {
  private:

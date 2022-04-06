@@ -4,7 +4,7 @@
  * Copyright (c) 2021, Robin Lee Simpson.
 */
 
-#include "species/eevak.h"
+#include "eevak.h"
 
 Eevak::Eevak() : _isRunning(false) {
 }

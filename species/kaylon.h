@@ -8,7 +8,7 @@ Created:  2021-07-12T21:49:16.944Z
 #ifndef SPECIES_KAYLON_H_
 #define SPECIES_KAYLON_H_
 
-#include "species/humanoid.h"
+#include "humanoid.h"
 
 class Kaylon : public Humanoid {
  private:

@@ -7,11 +7,11 @@
 #ifndef SPECIES_SPECIES_H_
 #define SPECIES_SPECIES_H_
 
-#include "species/eevak.h"
-#include "species/gelatin.h"
-#include "species/human.h"
-#include "species/humanoid.h"
-#include "species/kaylon.h"
-#include "species/moclan.h"
+#include "eevak.h"
+#include "gelatin.h"
+#include "human.h"
+#include "humanoid.h"
+#include "kaylon.h"
+#include "moclan.h"
 
 #endif  // SPECIES_SPECIES_H_
